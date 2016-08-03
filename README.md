@@ -1,2 +1,5 @@
 # hello-world
-Test repository
+
+Hello,
+
+Learning a thing or two about Git and GitHub!
